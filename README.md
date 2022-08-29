@@ -1,2 +1,2 @@
 # 2048
-unity lua 2048 CachePool Support
+基于Unity开发的带缓存池功能的lua版2048
